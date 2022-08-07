@@ -2,7 +2,7 @@
 
 <br/>
 
-- "Initializing the Git Repository" -> <span style = "color : green"> "git init" </span>
+- "Initializing the Git Repository" -> <font color = "green"> "git init" </font>
 
 - "Checking the current status of your project" -> "git status"
 
