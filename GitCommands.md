@@ -2,7 +2,7 @@
 
 <br/>
 
-- "Initializing the Git Repository" -> **["git init"]** 
+- "Initializing the Git Repository" -> **"git init"** 
 
 - "Checking the current status of your project" -> **"git status"**
 
