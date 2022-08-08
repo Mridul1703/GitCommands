@@ -8,7 +8,7 @@
 
 - "Staging the code before pushing it" -> **"git add ."** or **"git add fileName"**
 
-- "Moving from 'stage' to 'commit' (with a message)" -> **"git commit -m "your message here""**
+- "Moving from 'stage' to 'commit' (with a message)" -> **"git commit -m 'your message here' "**
 
 - "Removing the code from the staging" -> **"git restore --staged fileName"**
 
