@@ -2,7 +2,7 @@
 
 <br/>
 
-- "Initializing the Git Repository" -> **["git init"]** 
+- "Initializing the Git Repository" -> **"git init"** 
 
 - "Checking the current status of your project" -> **"git status"**
 
@@ -21,3 +21,5 @@
 - "Checking for the repositories connected to the files" -> **"git remote -v"**
 
 - "Pushing the code to the git repository" -> **"git push origin master"**
+
+- "Cloning a git repository" -> **"git clone RepositoryURL"**
