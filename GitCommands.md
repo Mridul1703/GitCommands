@@ -23,3 +23,9 @@
 - "Pushing the code to the git repository" -> **"git push origin master"**
 
 - "Cloning a git repository" -> **"git clone RepositoryURL"**
+
+- "Creating a branch" -> **"git branch branchName"**
+
+- "Changing among branches" -> **"git checkout branchName"**
+
+- "Merging branches into one" -> **"git merge branchName"**
